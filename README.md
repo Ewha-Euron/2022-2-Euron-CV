@@ -2,7 +2,8 @@
 
 ## 임원진
 - **[민소연](https://github.com/MSY99)**
-- 황채원
+- **[황채원](https://github.com/uommou)**
+- **[노원희](https://github.com/neoseurae12)**
 
 
 ## Curriculum
