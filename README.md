@@ -10,8 +10,8 @@
 
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|
-|1|22/08/30|cs231n1강 Introduction to Convolution Neural Networks|민소연, 황채원|
-|2|22/09/06|cs231n 2강 Image Classification|변규리, 임연우|
+|1|22/08/30|
+|2|22/09/06|cs231n1강 Introduction to Convolution Neural Networks + cs231n 2강 Image Classification|민소연, 황채원, 변규리, 임연우|
 |3|22/09/13|cs231n 3강 Loss Functions and Optimization|김나은, 고주은|
 |4|22/09/20|cs231n 4강 Introduction to Neural Networks|백승민, 신지연|
 |5|22/09/27|cs231n 5강 Convolutional Neural Networks|조수빈, 변규리|
